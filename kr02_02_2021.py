@@ -9,16 +9,6 @@ def task_1(two_dim_words):
     return sorted_words
 
 
-def task_3(numbers):
-    """
-        Здесь должен быть ваш код.
-        Переменная numbers - ваша строка чисел.
-        Финальное значение должно быть помещено в переменную dict_min.
-        """
-
-    return dict_min
-
-
 def task_4_1(words):
     """
         Здесь должен быть ваш код.
